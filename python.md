@@ -11,7 +11,7 @@ librería python para usar la api de google.
 ejemplo de código utilizando la liberría sound_lib para reproducir sonido.
 el modulo sound fue desarrollado  por miguel Barraza.
 
-- [descargar codigo](sonido.rar)
+- [descargar codigo](python/sonido.rar)
 
 ## utilizar tts de google
 
@@ -23,4 +23,3 @@ convierte de texto a voz, con el api de google.
 También podemos utilizar excel con python con la librería openpyxl.  
 
 [descargar ejemplo](python/excel.rar)
-
