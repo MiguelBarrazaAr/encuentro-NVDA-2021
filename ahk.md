@@ -26,5 +26,6 @@ Básicamente se nos creará una plantilla de script donde podremos agregar coord
 [Proyecto en GitHub](https://github.com/GerardKessler/ScriptCreator)  
 [Descarga del script](https://github.com/GerardKessler/ScriptCreator/releases/download/0.2/ScriptCreator-0.2-pass-reaper.rar)  
 
-[volver a al inicio](index.md)
+[volver a al inicio](index.md)  
+
 Este trabajo está bajo una [Licencia internacional Creative Commons Reconocimiento-NoComercial-SinDerivados 4.0.](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.es)

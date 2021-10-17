@@ -78,5 +78,6 @@ caracteres normales, legibles. El código fuente se utiliza para describir progr
 componentes han de ser lo más legibles y comprensibles 
 posibles. En algunos lenguajes interpretado como php, python entre otros se ejecuta sin compilar.
 
-[volver a al inicio](index.md)
+[volver a al inicio](index.md)  
+
 Este trabajo está bajo una [Licencia internacional Creative Commons Reconocimiento-NoComercial-SinDerivados 4.0.](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.es)
