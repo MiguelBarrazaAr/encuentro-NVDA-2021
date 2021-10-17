@@ -16,5 +16,11 @@ el modulo sound fue desarrollado  por miguel Barraza.
 ## utilizar tts de google
 
 convierte de texto a voz, con el api de google.
-[descargar ejemplo](convertir.rar)
+[descargar ejemplo](python/convertir.rar)
+
+## excel
+
+También podemos utilizar excel con python con la librería openpyxl.  
+
+[descargar ejemplo](python/excel.rar)
 
